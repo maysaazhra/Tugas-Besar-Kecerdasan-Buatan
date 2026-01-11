@@ -57,3 +57,14 @@ Informasi yang ditampilkan:
 - Performa
 - Skor Mamdani
 -Skor Sugeno
+
+# CARA MENJALANKAN PROGRAM SISTEM FUZZY PEMILIHAN LAPTOP
+1. Buka Google Colab.
+2. Upload file program (.ipynb) dan dataset laptop.csv ke folder yang sama.
+3. Jalankan program dari sel paling atas hingga bawah.
+4. Program akan menampilkan:
+   - Visualisasi fungsi keanggotaan
+   - Grafik perbandingan Mamdani dan Sugeno
+   - Daftar 5 laptop terbaik beserta skor kelayakan
+5. Program tidak menggunakan library fuzzy siap pakai.
+
